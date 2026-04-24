@@ -135,4 +135,10 @@ Click **"Fetch Latest Articles"** in the sidebar, or enable auto-fetch on a sche
 
 ---
 
+## Related
+
+**[CTI Intelligence Platform](https://github.com/jed-burke/cti-intelligence-platform)** — A companion project covering cyber threat intelligence, AI risk, and compute competition via daily/weekly feed collection, AI-generated analyst notes, and a structured briefing portal.
+
+---
+
 *Built with [Claude](https://claude.ai) · [Anthropic API](https://docs.anthropic.com)*
